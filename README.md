@@ -24,3 +24,14 @@ As atividades estão organizadas por tema ou por ordem de entrega:
 - Funções e modularização
 - Manipulação de listas e dicionários
 - Lógica de programação
+
+## 📌 Observações
+- Este repositório tem fins educacionais.
+
+- Atividades feitas conforme o cronograma das aulas.
+
+## 📫 Contato
+
+- GitHub: @Cirker1226
+- Linkedin: [@matheustecd](https://www.linkedin.com/in/matheustecd/)
+
