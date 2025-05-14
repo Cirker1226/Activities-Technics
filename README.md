@@ -32,6 +32,6 @@ As atividades estão organizadas por tema ou por ordem de entrega:
 
 ## 📫 Contato
 
-- GitHub: @Cirker1226
+- GitHub: [@Cirker1226](https://github.com/Cirker1226)
 - Linkedin: [@matheustecd](https://www.linkedin.com/in/matheustecd/)
 
