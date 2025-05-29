@@ -18,7 +18,7 @@ while True:
         print("-"*80, "\n")
         break
     except ValueError:
-        print("Valor inválido. Digite um número inteiro.")
+        print("Valor inválido. Digite um número inteiro.\n")
 
 # Pedindo as informações dos participantes
 
