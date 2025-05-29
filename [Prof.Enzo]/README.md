@@ -1,0 +1,32 @@
+# 💻 Atividades de Python – Curso Técnico em ADS
+
+Este repositório contém as atividades desenvolvidas na linguagem **Python** durante o curso técnico de **Análise e Desenvolvimento de Sistemas (ADS)** na instituição **Proz Educação** com a professora e instrutor **Enzo**.
+
+## 🎯 Objetivo
+
+Organizar e registrar as atividades de Python feitas durante o curso, servindo como portfólio de aprendizado e prática da linguagem.
+
+## 📂 Estrutura
+
+As atividades estão organizadas por tema ou por ordem de entrega:
+
+- `[Folha01]` – Lista de exercícios com foco em programação básica.
+- `[Folha02]` – Lista de exercícios com foco em programação básica.
+
+## 🧠 Conhecimentos Desenvolvidos
+
+- Sintaxe básica do Python
+- Controle de fluxo (condições e laços)
+- Funções e modularização
+- Manipulação de listas e dicionários
+- Lógica de programação
+
+## 👀 Observações
+- Este repositório reúne as atividades desenvolvidas sob a orientação do instrutor Enzo.
+
+- As atividades foram realizadas de acordo com o cronograma estabelecido em aula.
+
+## 📫 Contato
+
+- GitHub: [@Cirker1226](https://github.com/Cirker1226)
+- Linkedin: [@matheustecd](https://www.linkedin.com/in/matheustecd/)
