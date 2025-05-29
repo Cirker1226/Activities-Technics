@@ -59,8 +59,11 @@ for nota in notas:
     if quantidade > 0:
         print(f"{quantidade_int} nota(s) de R${nota}".center(80))
 
+saque_restante = valor_sacar
+saque_restante = round(saque_restante, 2)
+
 print("")
 print("Retire o seu dinheiro. Obrigado pela preferência".center(80))
-print(f"Saldo restante disponivel R${saldo_restante}".center(80))
+print(f"Saldo restante não sacado R${saque_restante}".center(80))
 print("")
 print("-"*80)
