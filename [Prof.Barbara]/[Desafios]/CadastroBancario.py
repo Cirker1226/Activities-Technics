@@ -19,7 +19,14 @@ def main():
 
 
         print("")
-        opcao=int(input("Escolha uma opção: "))
+
+        while True:
+            try:
+                opcao=int(input("Escolha uma opção: "))
+                break
+            except ValueError:
+                print("Por favor, insira um número válido.")
+
         print("")
 
 
