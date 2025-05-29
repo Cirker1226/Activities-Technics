@@ -6,17 +6,6 @@ Este repositório contém as atividades desenvolvidas na linguagem **Python** du
 
 Organizar e registrar as atividades de Python feitas durante o curso, servindo como portfólio de aprendizado e prática da linguagem.
 
-## 📂 Estrutura
-
-As atividades estão organizadas por tema ou por ordem de entrega:
-
-- `exercicios_basicos/` – Variáveis, entrada e saída de dados, operadores aritméticos.
-- `condicionais/` – Estruturas `if`, `elif`, `else`.
-- `repeticoes/` – Estruturas de repetição como `for` e `while`.
-- `funcoes/` – Funções definidas pelo usuário.
-- `listas_e_dicionarios/` – Trabalhando com listas, tuplas e dicionários.
-- `projetos_finais/` – Pequenos projetos ou desafios mais completos.
-
 ## 🧠 Conhecimentos Desenvolvidos
 
 - Sintaxe básica do Python
