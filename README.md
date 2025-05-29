@@ -6,6 +6,13 @@ Este repositório contém as atividades desenvolvidas na linguagem **Python** du
 
 Organizar e registrar as atividades de Python feitas durante o curso, servindo como portfólio de aprendizado e prática da linguagem.
 
+## 📂 Estrutura
+
+As atividades estão organizadas por tema ou por ordem de entrega:
+
+- `[Prof.Barbara]` – Atividades desenvolvidas e orientadas pela professora Barbara.
+- `[Prof.Enzo]` – Atividades desenvolvidas e orientadas pelo professor Enzo.
+  
 ## 🧠 Conhecimentos Desenvolvidos
 
 - Sintaxe básica do Python
