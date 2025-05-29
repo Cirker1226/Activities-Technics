@@ -12,9 +12,7 @@ As atividades estão organizadas por tema ou por ordem de entrega:
 
 - `[Desafios]` – Desafios propostos para a resolução em casa.
 - `[Lista 01]` – Primeira lista realizada em sala de aula.
-- `[...]` – ...
 
-- 
 ## 🧠 Conhecimentos Desenvolvidos
 
 - Sintaxe básica do Python
