@@ -1,4 +1,4 @@
-# 👀 Atividades de Python – Curso Técnico em ADS
+# 💻 Atividades de Python – Curso Técnico em ADS
 
 Este repositório contém as atividades desenvolvidas na linguagem **Python** durante o curso técnico de **Análise e Desenvolvimento de Sistemas (ADS)** na instituição Proz Educação com a professora e instrutora Barbara.
 
@@ -21,10 +21,10 @@ As atividades estão organizadas por tema ou por ordem de entrega:
 - Manipulação de listas e dicionários
 - Lógica de programação
 
-## 📌 Observações
-- Este repositório tem fins educacionais.
+## 👀 Observações
+- Este repositório reúne as atividades desenvolvidas sob a orientação da instrutora Barbara.
 
-- Atividades feitas conforme o cronograma das aulas.
+- As atividades foram realizadas de acordo com o cronograma estabelecido em aula.
 
 ## 📫 Contato
 
