@@ -11,7 +11,11 @@ notas = []
 n = 0
 
 while True:
-    print("-"*80)
+    print("-" * 80)
+    print("")
+    print("Instituto Educacional Missão Paz".center(80))
+    print("")
+    print("-" * 80)
     print("")
 
     while True: 
