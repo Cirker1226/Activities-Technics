@@ -85,8 +85,9 @@ if total_alunos > 0:
     media_notas = sum(notas) / total_alunos
     print(f"Média da turma: {media_notas:.2f}")
 
-    # Encontrar aluno com maior nota
-    maior_nota = max(notas)
+# Encontrar aluno com maior nota
+    
+    maior_nota = max(notas) 
     indice_maior = notas.index(maior_nota)
     aluno_maior_nota = nomes[indice_maior]
     print(f"Aluno com a maior nota: {aluno_maior_nota} ({maior_nota})")
