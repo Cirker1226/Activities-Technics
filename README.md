@@ -4,11 +4,11 @@ Este repositório contém as atividades desenvolvidas durante o curso técnico d
 
 ## 🎯 Objetivo
 
-Organizar e registrar as atividades de Python feitas durante o curso, servindo como portfólio de aprendizado e prática da linguagem.
+Organizar e registrar as atividades feitas durante o curso, servindo como portfólio de aprendizado e prática das linguagens.
 
 ## 📂 Estrutura
 
-As atividades estão organizadas por tema ou por ordem de entrega:
+As atividades estão organizadas de acordo com cada professor:
 
 - `[Prof.Barbara]` – Atividades desenvolvidas e orientadas pela professora Barbara.
 - `[Prof.Enzo]` – Atividades desenvolvidas e orientadas pelo professor Enzo.
