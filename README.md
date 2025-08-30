@@ -1,4 +1,4 @@
-# 🐍 Atividades de Python – Curso Técnico em ADS
+# 💻 Analise e Desenvolvimento de Sistemas - Proz Educação.
 
 Este repositório contém as atividades desenvolvidas durante o curso técnico de **Análise e Desenvolvimento de Sistemas (ADS)** na instituição Proz Educação. Todos os exercícios foram propostos pelos professores ao longo das aulas práticas.
 
